@@ -18,7 +18,7 @@ Here are a few selected projects that show how I think, build, and learn. Each o
 Cleaned and explored a dataset of used cars in India, then built regression and decision tree models to predict prices.
 
 **Skills:** pandas, matplotlib, regression, scikit-learn, model evaluation  
-**[View Project ➜](#)**
+**[View Project ➜]((https://github.com/ngildersleeve/used-cars-regression/blob/main/India_Used_Cars_Price_Prediction.ipynb))**
 
 ---
 
@@ -38,11 +38,7 @@ Used a pre-trained image classifier (EfficientNet) to build a transfer learning 
 
 ---
 
-### 📈 [Power BI Sales Dashboard](#)
-Designed a Power BI dashboard to visualize key performance indicators from a sales database.
 
-**Skills:** Power BI, DAX, SQL (PostgreSQL), data storytelling  
-**[View Project ➜](#)**
 
 ---
 
