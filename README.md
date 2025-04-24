@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Nate Gildersleeve
 
 I'm a mathematician-turned-machine learning practitioner with 10+ years of experience in education, problem-solving, and technical communication. I’m currently building my portfolio in data science and AI with projects focused on predictive modeling, computer vision, and automation.
 
