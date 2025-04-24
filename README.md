@@ -14,11 +14,11 @@ I'm a mathematician-turned-machine learning practitioner with 10+ years of exper
 
 Here are a few selected projects that show how I think, build, and learn. Each one includes a description, tools used, and what I learned or contributed.
 
-### 📊 [Used Car Price Prediction](#)
+### 📊 [Used Car Price Prediction](https://github.com/ngildersleeve/used-cars-regression/blob/main/India_Used_Cars_Price_Prediction.ipynb)
 Cleaned and explored a dataset of used cars in India, then built regression and decision tree models to predict prices.
 
 **Skills:** pandas, matplotlib, regression, scikit-learn, model evaluation  
-**[View Project ➜]((https://github.com/ngildersleeve/used-cars-regression/blob/main/India_Used_Cars_Price_Prediction.ipynb))**
+**[View Project ➜](https://github.com/ngildersleeve/used-cars-regression/blob/main/India_Used_Cars_Price_Prediction.ipynb)**
 
 ---
 
