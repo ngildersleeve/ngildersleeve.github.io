@@ -30,11 +30,11 @@ Trained a convolutional neural network in TensorFlow/Keras to classify handwritt
 
 ---
 
-### 🗑️ [Waste Classification with Transfer Learning](#)
+### 🗑️ [Waste Classification with Transfer Learning](https://github.com/ngildersleeve/waste-classification)
 Used a pre-trained image classifier (EfficientNet) to build a transfer learning pipeline for classifying waste product types. Achieved F1 score of 0.82.
 
 **Skills:** TensorFlow Hub, transfer learning, image preprocessing, F1 metric  
-**[View Project ➜](#)**
+**[View Project ➜](https://github.com/ngildersleeve/waste-classification/blob/main/Project_Classify_Waste_Products_Using_Transfer_Learning.ipynb)**
 
 ---
 
